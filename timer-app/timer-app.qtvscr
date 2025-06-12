@@ -1,0 +1,462 @@
+<FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" FontFamily="Segoe UI" FontSize="12">
+  <FlowDocument.Tag><![CDATA[{
+  "timestamp": "2025-06-12 09:52:11",
+  "files": {
+    "C:\\Users\\Administrator\\Desktop\\timer-app\\timer-app\\timer-app.vcxproj": {
+      "before": "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",
+      "after": "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"
+    }
+  }
+}]]></FlowDocument.Tag>
+  <Section Margin="0,24" TextAlignment="Center">
+    <Paragraph FontSize="24" FontWeight="Bold" Margin="12,0">
+      <LineBreak />
+      <Span Foreground="Gray">Qt Visual Studio Tools</Span>
+    </Paragraph>
+    <Paragraph FontSize="42" Margin="12,0" FontWeight="Bold">
+      <Span TextDecorations="Underline">Project Format Conversion</Span>
+    </Paragraph>
+    <Paragraph Margin="12,8" FontSize="18">
+      <Span>Report generated on 2025-06-12 09:52:11</Span>
+    </Paragraph>
+  </Section>
+  <Section>
+    <Paragraph FontSize="32" FontWeight="Bold" Margin="12,0">
+      <Span>Files</Span>
+    </Paragraph>
+    <Paragraph Margin="24,12,0,0">
+      <Span FontFamily="Consolas" FontSize="14" Background="WhiteSmoke"><![CDATA[C:\Users\Administrator\Desktop\timer-app\timer-app\timer-app.vcxproj]]></Span>
+      <LineBreak />
+      <Hyperlink NavigateUri="file://C:\Users\Administrator\Desktop\timer-app\timer-app\timer-app.vcxproj?before">[Before]</Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\Administrator\Desktop\timer-app\timer-app\timer-app.vcxproj?after">[After]</Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\Administrator\Desktop\timer-app\timer-app\timer-app.vcxproj?diff&amp;before&amp;after">
+                        [Diff before/after]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\Administrator\Desktop\timer-app\timer-app\timer-app.vcxproj?diff&amp;before&amp;current">
+                        [Diff before/current]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\Administrator\Desktop\timer-app\timer-app\timer-app.vcxproj?diff&amp;after&amp;current">
+                        [Diff after/current]
+                    </Hyperlink>
+      <LineBreak />
+    </Paragraph>
+  </Section>
+  <Section>
+    <Paragraph FontSize="32" FontWeight="Bold" Margin="12,0">
+      <Span>Changes</Span>
+    </Paragraph>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Converting custom build steps to Qt/MSBuild items]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\Administrator\Desktop\timer-app\timer-app\timer-app.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      ]]></Span><Span Background="LightCoral"><![CDATA[<AdditionalIncludeDirectories>C:\Qt\6]]></Span><Span><![CDATA[.6.3\msvc2019_64\include;C:\Qt\6.6.3\msvc2019_64\include\QtWidgets;C:\Qt\6.6.3\msvc2019_64\include\QtCore;C:\Qt\6.6.3\msvc2019_64\include\QtGui</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      ]]></Span><Span Background="LightGreen"><![CDATA[<AdditionalIncludeDirectories>GeneratedFiles\$(ConfigurationName);GeneratedFiles;C:\Qt\6]]></Span><Span><![CDATA[.6.3\msvc2019_64\include;C:\Qt\6.6.3\msvc2019_64\include\QtWidgets;C:\Qt\6.6.3\msvc2019_64\include\QtCore;C:\Qt\6.6.3\msvc2019_64\include\QtGui</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Enabling multi-processor compilation]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\Administrator\Desktop\timer-app\timer-app\timer-app.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Project format version]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\Administrator\Desktop\timer-app\timer-app\timer-app.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Keyword>QtVS_v304</Keyword>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Fallback for QTMSBUILD environment variable]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\Administrator\Desktop\timer-app\timer-app\timer-app.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <QtMsBuild Condition="'$(QtMsBuild)'=='' OR !Exists('$(QtMsBuild)\qt.targets')">$(MSBuildProjectDirectory)\QtMsBuild</QtMsBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Default Qt properties]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\Administrator\Desktop\timer-app\timer-app\timer-app.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Import Project="$(QtMsBuild)\qt_defaults.props" Condition="Exists('$(QtMsBuild)\qt_defaults.props')" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt build settings]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\Administrator\Desktop\timer-app\timer-app\timer-app.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Warn if Qt/MSBuild is not found]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\Administrator\Desktop\timer-app\timer-app\timer-app.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Target Name="QtMsBuildNotFound" BeforeTargets="CustomBuild;ClCompile" Condition="!Exists('$(QtMsBuild)\qt.targets') OR !Exists('$(QtMsBuild)\Qt.props')">]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Message Importance="High" Text="QtMsBuild: could not locate qt.targets, qt.props; project may not build correctly." />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  </Target>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt property sheet]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\Administrator\Desktop\timer-app\timer-app\timer-app.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt targets]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\Administrator\Desktop\timer-app\timer-app\timer-app.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Import Project="$(QtMsBuild)\qt.targets" Condition="Exists('$(QtMsBuild)\qt.targets')" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+  </Section>
+  <Section>
+    <Paragraph />
+  </Section>
+</FlowDocument>
+<!--Hs6TTQBcdW/hN6Tw4n5lkDZWNcu+BUzmGCz9z5/fR+M=-->

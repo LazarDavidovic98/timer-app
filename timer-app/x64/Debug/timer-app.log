@@ -1,0 +1,10 @@
+﻿C:\Users\Administrator\Desktop\timer-app\timer-app\timer-app.vcxproj(181,5): warning MSB4011: "C:\Users\Administrator\AppData\Local\QtMsBuild\qt_defaults.props" cannot be imported again. It was already imported at "C:\Users\Administrator\Desktop\timer-app\timer-app\timer-app.vcxproj (58,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+C:\Users\Administrator\Desktop\timer-app\timer-app\timer-app.vcxproj(187,3): warning MSB4011: "C:\Users\Administrator\AppData\Local\QtMsBuild\qt.targets" cannot be imported again. It was already imported at "C:\Users\Administrator\Desktop\timer-app\timer-app\timer-app.vcxproj (185,5)". This is most likely a build authoring error. This subsequent import will be ignored. 
+   Qt/MSBuild: 3.4.0.1
+  Reading Qt configuration (C:/Qt/6.6.3/msvc2019_64/bin/qmake)
+   Qt: 6.6.3
+  MainWindow.cpp
+  qrc_resources.cpp
+x64\Debug\AlarmModel.obj : warning LNK4042: object specified more than once; extras ignored
+x64\Debug\StopWatchModel.obj : warning LNK4042: object specified more than once; extras ignored
+  timer-app.vcxproj -> C:\Users\Administrator\Desktop\timer-app\x64\Debug\timer-app.exe
