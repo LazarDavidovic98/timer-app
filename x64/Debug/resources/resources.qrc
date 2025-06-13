@@ -1,9 +1,0 @@
-<!DOCTYPE RCC>
-<RCC>
-  <qresource prefix="/resources">
-    <file>time.png</file>
-    <file>stopwatch.png</file>
-    <file>alarm-clock.png</file>
-    <file>alarm.wav</file>
-  </qresource>
-</RCC>
